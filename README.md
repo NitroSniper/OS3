@@ -11,7 +11,7 @@ This repo contains a Bash version of the solution which I first created which I 
 To install the c version of the solution.
 ```bash
 cd executable_args
-make insall
+make install
 ```
 The program will be compiled and installed and located in /usr/local/bin directory
 
