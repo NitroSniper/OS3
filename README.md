@@ -17,7 +17,7 @@ The program will be compiled and installed and located in /usr/local/bin directo
 
 ### Dependencies
 
-* Have Git and Rust installed on your system.
+* Have make and gcc installed on your system.
 
 
 ### Executing program
